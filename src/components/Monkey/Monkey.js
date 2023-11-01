@@ -54,7 +54,7 @@ const Monkey = () => {
             value={formData.business}
             onChange={handleChange}
           />
-           <label>  Phone:  </label>
+           <label>  Phone No. :  </label>
           <input
             type="text"
             name="business"
